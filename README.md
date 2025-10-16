@@ -36,4 +36,3 @@ me tornar uma referência em **garantia da qualidade de software**.
 ---
 
 > 💬 “Qualidade não é um ato, é um hábito.” – Aristóteles
-> Add profile banner + README
