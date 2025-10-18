@@ -1,5 +1,4 @@
 
-![banner](https://github.com/user-attachments/assets/f675cb7a-ca59-4935-b94b-bc5264dcb593)
 # 👋 Olá, eu sou o Miqueias Ferreira
 
 💻 **Analista de QA | Garantia da Qualidade de Software**  
