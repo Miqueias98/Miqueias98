@@ -1,11 +1,10 @@
+👋 Olá, eu sou Miqueias Ferreira
 
-# 👋 Olá, eu sou o Miqueias Ferreira
-
-💻 **Analista de QA | Garantia da Qualidade de Software**  
-Sou apaixonado por tecnologia e pela busca constante por excelência nos produtos digitais.  
-Atualmente estou focado em aprimorar minhas habilidades em **testes manuais**, **automação** e **boas práticas de QA**.
-
----
+💻 Quality Assurance (QA) | Foco em Qualidade de Software e Testes
+📍 Brasil
+🎯 Em constante evolução na área de QA, com foco em testes manuais e iniciando em automação.
+📚 Estudante de TI pela Tripleten Brasil.
+🚀 Buscando contribuir em projetos reais e aprimorar minhas habilidades em qualidade de software.
 
 ### 🧰 Tecnologias e Ferramentas
 - 🧪 Testes Manuais  
@@ -28,9 +27,11 @@ me tornar uma referência em **garantia da qualidade de software**.
 
 ---
 
-### 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/miqueias-ferreira)  
-- 🧠 [GitHub](https://github.com/miqueias98)
+###🌐 Conecte-se comigo
+
+🔗 LinkedIn - Miqueias Ferreira
+📬 miqueiasferreira@gmail.com  
+🧠 [GitHub](https://github.com/miqueias98)
 
 ---
 
