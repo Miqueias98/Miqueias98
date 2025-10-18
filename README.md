@@ -30,6 +30,7 @@ me tornar uma referência em **garantia da qualidade de software**.
 ###🌐 Conecte-se comigo
 
 🔗 LinkedIn - Miqueias Ferreira
+
 📬 miqueiasferreira@gmail.com  
 🧠 [GitHub](https://github.com/miqueias98)
 
