@@ -8,9 +8,9 @@
 
 ### 🧰 Tecnologias e Ferramentas
 - 🧪 Testes Manuais  
-- ⚙️ Test Case Design (Casos de Teste)  
+- ⚙️ Casos de Testes  
 - 🐞 Reporte e Rastreamento de Bugs  
-- 🔍 Postman | Trello | Jira | TestLink | Git | VS Code
+- 🔍 Postman | Jira | TestLink | Github | VS Code
 
 ---
 
