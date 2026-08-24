@@ -1,40 +1,69 @@
-👋 Olá, eu sou Miqueias Ferreira
+👋 Hey! I’m Miqueias Ferreira
 
-💻 Quality Assurance (QA) | Foco em Qualidade de Software e Testes
-📍 Brasil
-🎯 Em constante evolução na área de QA, com foco em testes manuais e iniciando em automação.
-📚 Estudante de TI pela Tripleten Brasil.
-🚀 Buscando contribuir em projetos reais e aprimorar minhas habilidades em qualidade de software.
+🧪 QA Analyst | Software Testing | Quality Assurance
 
-### 🧰 Tecnologias e Ferramentas
-- 🧪 Testes Manuais  
-- ⚙️ Casos de Testes  
-- 🐞 Reporte e Rastreamento de Bugs  
-- 🔍 Postman | Jira | TestLink | Github | VS Code
+🚀 Transformando aprendizado em prática e bugs em evolução.
 
----
+Sou profissional em desenvolvimento na área de QA, com experiência prática em testes funcionais, documentação, identificação de bugs e validação de APIs.
 
-### 📈 Atualmente estudando
-- Automação de testes com **JavaScript e Cypress**  
-- Fundamentos de **Testes de API**  
-- Boas práticas de **QA e DevOps**
+⸻
 
----
+⚙️ Tech Stack
 
-### 🚀 Objetivo
-Evoluir constantemente na área de QA, contribuir para projetos que valorizam a qualidade e  
-me tornar uma referência em **garantia da qualidade de software**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,git,github,postman" />
+</p>
 
----
+QA: Functional Testing Regression Testing Smoke Testing API Testing
 
-###🌐 Conecte-se comigo
+⸻
 
-🔗 LinkedIn - Miqueias Ferreira
+🚀 Featured Projects
 
-📬 miqueiasferreiraa13@gmail.com  
+Projeto	Foco
+🛣️ Urban Routes	Testes Funcionais
+🚗 Driver License	Validação de Campos
+🛒 Kit Products	API Testing + Postman
 
-🧠 [GitHub](https://github.com/miqueias98)
+🔗 Ver todos os projetos →
 
----
+⸻
 
-> 💬 “Qualidade não é um ato, é um hábito.” – Aristóteles
+📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Miqueias98&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueias98&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+</div>
+
+⸻
+
+🔥 Contribution Streak
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Miqueias98&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+⸻
+
+🎯 Currently
+
+🧪 QA & Software Testing
+📮 API Testing with Postman
+💻 JavaScript
+🔧 Git & GitHub
+🚀 Building my career in Technology
+
+⸻
+
+🤝 Let’s Connect
+
+⸻
+
+<div align="center">
+
+💙 Quality is not a destination. It’s a process.
+
+Learn → Test → Find → Improve → Repeat. 🔄
+
+</div>
