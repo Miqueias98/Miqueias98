@@ -78,7 +78,8 @@ QA • Web Testing
 https://github.com/Miqueias98/Testes-de-Aplica-o-Web-Valida-o-de-Layout-Reserva-e-Pagamento
 
 </td>
-
+</tr>
+</table>
 ⸻
 
 🔥 Contribution Streak
