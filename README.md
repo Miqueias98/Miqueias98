@@ -83,3 +83,13 @@ https://github.com/Miqueias98/QA-FunctionalTests-KitProducts-APIValidation
 🎯 Learn • Test • Find • Improve • Repeat.
 
 </div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miqueias98/Miqueias98/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miqueias98/Miqueias98/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Miqueias98/Miqueias98/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
