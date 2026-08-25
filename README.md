@@ -66,8 +66,18 @@ API • Postman
 https://github.com/Miqueias98/QA-FunctionalTests-KitProducts-APIValidation
 
 </td>
-</tr>
-</table>
+<td width="33%" valign="top">
+
+🌐 Aplicação Web
+
+159 testes em uma aplicação de reservas, validando layout, pagamento, reserva e cancelamento.
+
+QA • Web Testing
+
+🔗 Ver projeto
+https://github.com/Miqueias98/Testes-de-Aplica-o-Web-Valida-o-de-Layout-Reserva-e-Pagamento
+
+</td>
 
 ⸻
 
