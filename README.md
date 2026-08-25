@@ -68,24 +68,14 @@ API • Postman
 
 ⸻
 
-📊 GitHub
+🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Miqueias98&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueias98&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Miqueias98&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ⸻
 
-🐍 My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Miqueias98/Miqueias98/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-⸻
-
-<div align="center">
 
 🎯 Learn • Test • Find • Improve • Repeat.
 
