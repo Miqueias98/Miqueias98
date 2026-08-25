@@ -39,6 +39,7 @@ Testes funcionais, cenários, execução de casos e identificação de bugs.
 QA • Functional Testing
 
 🔗 Ver projeto
+https://github.com/Miqueias98/QA-FunctionalTests-UrbanRoutes
 
 </td>
 <td width="33%" valign="top">
@@ -50,6 +51,7 @@ Validação de campos, cenários positivos/negativos e regras de negócio.
 QA • Validation
 
 🔗 Ver projeto
+https://github.com/Miqueias98/QA-FunctionalTests-DriverLicense-FieldValidation
 
 </td>
 <td width="33%" valign="top">
@@ -61,6 +63,7 @@ Validação de API, requisições, respostas e status codes com Postman.
 API • Postman
 
 🔗 Ver projeto
+https://github.com/Miqueias98/QA-FunctionalTests-KitProducts-APIValidation
 
 </td>
 </tr>
